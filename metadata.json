@@ -1,0 +1,6 @@
+{
+  "name": "机动车记录本",
+  "description": "独立记录不同机动车的加油和维护保养情况，帮助您轻松管理爱车花销和保养历史。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
